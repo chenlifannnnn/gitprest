@@ -1,2 +1,4 @@
 everybody wants to be my enemy!!!
+<<<<<<< HEAD
 永远滴神，在master分支修改的内容。。
+
